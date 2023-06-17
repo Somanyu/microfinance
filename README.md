@@ -48,12 +48,12 @@ Microfinance Tracker is a web application built using the MERN (MongoDB, Express
 
 1. Clone the repository:
 ```cmd 
-git clone https://github.com/Somanyu/finproject.git
+git clone https://github.com/Somanyu/microfinance.git
 ```
 
 2. Navigate to the project directory:
 ```cmd
-cd finproject
+cd microfinance
 ```
 
 3. Install the dependencies for the client-side and server-side:
